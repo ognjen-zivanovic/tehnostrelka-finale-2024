@@ -8,18 +8,28 @@ public class trackermanager : MonoBehaviour
     [SerializeField]
     ARTrackedImageManager m_TrackedImageManager;
 
-    [SerializeField] GameObject asdfjk;
+    [SerializeField] GameObject go1;
 
     void OnEnable() => m_TrackedImageManager.trackedImagesChanged += OnChanged;
 
     void OnDisable() => m_TrackedImageManager.trackedImagesChanged -= OnChanged;
 
+    bool first = false;
+
     void OnChanged(ARTrackedImagesChangedEventArgs eventArgs)
     {
         foreach (var newImage in eventArgs.added)
         {
-           string s = newImage.referenceImage.name;
-           if (s == )
+            string s = newImage.referenceImage.name;
+            if (s == "Jevrem Obrenovic")
+            {
+                GameObject ori = GameObject.FindGameObjectWithTag("Origin");
+                //Debug.Log(ori.name);
+                //ori.transform.rotation = Quaternion.identity;
+                Instantiate(go1, ori.transform);
+                Handheld.Vibrate();
+            }
+            //Debug.Log(s);
         }
 
         foreach (var updatedImage in eventArgs.updated)

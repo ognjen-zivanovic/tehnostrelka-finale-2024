@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: XR Reference Image Library
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4708261543637366272
+  m_GuidHigh: 11524107826991392431
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4980832086997269429
+      m_GuidHigh: 10063221362656112555
+    m_SerializedTextureGuid:
+      m_GuidLow: 5680198696254053286
+      m_GuidHigh: 12224275687348461339
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Jevrem Obrenovic
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5001546064398576741
+      m_GuidHigh: 5871336794356122763
+    m_SerializedTextureGuid:
+      m_GuidLow: 2721573071104993938
+      m_GuidHigh: 3891250202691476584
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Isidora Sekulic
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5017310601142975635
+      m_GuidHigh: 11937794352849412483
+    m_SerializedTextureGuid:
+      m_GuidLow: 1217235171417628744
+      m_GuidHigh: 17364135559832327592
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Laza K Lazarevic
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4783730875546328495
+      m_GuidHigh: 7113172285222732190
+    m_SerializedTextureGuid:
+      m_GuidLow: 3504982201016862912
+      m_GuidHigh: 17762472890006010264
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Milic od Macve
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5670146313194650438
+      m_GuidHigh: 17739399139641874597
+    m_SerializedTextureGuid:
+      m_GuidLow: 16858275230829807541
+      m_GuidHigh: 9131080525671052313
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Robert Tolinger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5698489382994181422
+      m_GuidHigh: 12959650144160801195
+    m_SerializedTextureGuid:
+      m_GuidLow: 6846816811212658921
+      m_GuidHigh: 656693822476912377
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Stojan Novakovic
+    m_Texture: {fileID: 0}
