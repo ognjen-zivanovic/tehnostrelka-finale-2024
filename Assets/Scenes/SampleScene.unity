@@ -600,12 +600,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrackedImageManager: {fileID: 608830366}
-  isidora: {fileID: 733155140476643299, guid: f0f6acb31a166944bbb778df316b453a, type: 3}
+  isidora: {fileID: 733155140476643299, guid: 3002d670ea46f974894a9109f159fbf6, type: 3}
   jevrem: {fileID: 733155140476643299, guid: 15220d2e5368c69458b17a3de4fa4d11, type: 3}
-  tolinger: {fileID: 733155140476643299, guid: 84f1d1d767ec88f4da066361aaac5f8d, type: 3}
-  milic: {fileID: 733155140476643299, guid: 2c715a330bb6ff048bc3589e06fbacb2, type: 3}
-  laza: {fileID: 733155140476643299, guid: d6d037fb624a76c419ef476d1ce12bb2, type: 3}
-  kosta: {fileID: 733155140476643299, guid: 8e86f953ad9bfe747b0b6c6dde56239e, type: 3}
+  tolinger: {fileID: 733155140476643299, guid: fa8b58ec86e8f1f4e8a9298e5fad8efc, type: 3}
+  milic: {fileID: 733155140476643299, guid: a407fee1548266948927c63abb2c7a8d, type: 3}
+  laza: {fileID: 733155140476643299, guid: 3363e0f7909df7144aaeda8ad0d3551b, type: 3}
+  kosta: {fileID: 733155140476643299, guid: cc5ddab01b03f3f49b74b4af555bd9e8, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
