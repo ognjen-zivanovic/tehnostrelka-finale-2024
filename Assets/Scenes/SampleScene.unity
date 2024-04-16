@@ -601,7 +601,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TrackedImageManager: {fileID: 608830366}
   isidora: {fileID: 733155140476643299, guid: 3002d670ea46f974894a9109f159fbf6, type: 3}
-  jevrem: {fileID: 733155140476643299, guid: cc5ddab01b03f3f49b74b4af555bd9e8, type: 3}
+  jevrem: {fileID: 733155140476643299, guid: 3002d670ea46f974894a9109f159fbf6, type: 3}
   tolinger: {fileID: 733155140476643299, guid: fa8b58ec86e8f1f4e8a9298e5fad8efc, type: 3}
   milic: {fileID: 733155140476643299, guid: a407fee1548266948927c63abb2c7a8d, type: 3}
   laza: {fileID: 733155140476643299, guid: 3363e0f7909df7144aaeda8ad0d3551b, type: 3}
