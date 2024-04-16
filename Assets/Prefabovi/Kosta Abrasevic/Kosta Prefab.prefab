@@ -872,14 +872,14 @@ RectTransform:
   m_GameObject: {fileID: 3781801182517751322}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1338, y: 0.1338, z: 0.1338}
+  m_LocalScale: {x: 0.1338, y: 0.1963, z: 0.1338}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8854208060992000034}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.6, y: -8.08}
+  m_AnchoredPosition: {x: -18.6, y: -9.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6666138314047302478
@@ -910,7 +910,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 3e34d05557b448f4eae7be10b9a47b05, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1244,10 +1244,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Obogatila sam srpsku knji\u017Eevnost unose\u0107i misaonost i novu tematiku.
-    Bila sam prva \u017Eena akademik, iako sam \u010Desto bila osporavana. Govorila
-    sam vi\u0161e jezika, duboko poznavala razne kulture, filozofiju, muziku i slikarstvo
-    o kojima sam i pisala."
+  m_text: "\u0160kolovao sam se u \u0160aba\u010Dkoj gimnaziji. Bio sam pripadnik
+    socijalisti\u010Dkog pokreta, osniva\u010D politi\u010Dko-knji\u017Eevnog kru\u017Enoka,
+    izdava\u010D listova pisanih rukom(Omirov venac i Grbonja) i pesnik. Najzna\u010Dajnija
+    pesni\u010Dka pojava u redovima na\u0161eg proletarijata. Knjiga: Pesme(1903).
+    Radovi: u publikacijama Socijal-demokrat(1895), Zvezda(1899-1900) i sl. Komponovane
+    pesme: Zvi\u017Edi vetre i Crvena."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1274,11 +1276,11 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.8
+  m_fontSize: 16.95
   m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 18
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
@@ -1418,10 +1420,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I enriched Serbian literature by introducing thoughtfulness and new themes.
-    I was the first female academic, although I was often challenged. I spoke multiple
-    languages and deeply understood various cultures, philosophy, music, and art,
-    which I also wrote about.
+  m_text: "\u0160kolovao sam se u \u0160aba\u010Dkoj gimnaziji. Bio sam pripadnik
+    socijalisti\u010Dkog pokreta, osniva\u010D politi\u010Dko-knji\u017Eevnog kru\u017Enoka,
+    izdava\u010D listova pisanih rukom(Omirov venac i Grbonja) i pesnik. Najzna\u010Dajnija
+    pesni\u010Dka pojava u redovima na\u0161eg proletarijata. Knjiga: Pesme(1903).
+    Radovi: u publikacijama Socijal-demokrat(1895), Zvezda(1899-1900) i sl. Komponovane
+    pesme: Zvi\u017Edi vetre i Crvena."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1520,14 +1524,14 @@ RectTransform:
   m_GameObject: {fileID: 5449013600053822002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0}
-  m_LocalScale: {x: 0.13379, y: 0.20915836, z: 0.13379}
+  m_LocalScale: {x: 0.16335759, y: 0.20757, z: 0.16335759}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8854208060992000034}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.6, y: 9.53}
+  m_AnchoredPosition: {x: 0.2, y: 5.5}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3087086890409682129
@@ -1558,7 +1562,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9330a3040b0d05841a6a8398f24fee04, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9d27ed34810e77d4bbf0a8c0c15875cd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1961,7 +1965,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -18.6, y: -10.35}
+  m_AnchoredPosition: {x: -18.6, y: 12.1}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4523056268201993517
