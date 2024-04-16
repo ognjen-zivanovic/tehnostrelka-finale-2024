@@ -14,7 +14,7 @@ public class trackermanager : MonoBehaviour
     [SerializeField] GameObject tolinger;
     [SerializeField] GameObject milic;
     [SerializeField] GameObject laza;
-    [SerializeField] GameObject stojan;
+    [SerializeField] GameObject kosta;
 
     void OnEnable() => m_TrackedImageManager.trackedImagesChanged += OnChanged;
 
@@ -46,9 +46,9 @@ public class trackermanager : MonoBehaviour
                 {
                     Instantiate(tolinger, ori.transform);
                 }
-                if (s == "Stojan Novakovic")
+                if (s == "Kosta Abrasevic")
                 {
-                    Instantiate(stojan, ori.transform);
+                    Instantiate(kosta, ori.transform);
                 }
                 if (s == "Milic od Macve")
                 {
