@@ -9,7 +9,12 @@ public class trackermanager : MonoBehaviour
     [SerializeField]
     ARTrackedImageManager m_TrackedImageManager;
 
-    [SerializeField] GameObject go1;
+    [SerializeField] GameObject isidora;
+    [SerializeField] GameObject jevrem;
+    [SerializeField] GameObject tolinger;
+    [SerializeField] GameObject milic;
+    [SerializeField] GameObject laza;
+    [SerializeField] GameObject stojan;
 
     void OnEnable() => m_TrackedImageManager.trackedImagesChanged += OnChanged;
 
@@ -32,14 +37,32 @@ public class trackermanager : MonoBehaviour
             {
                 first = false;
                 string s = updatedImage.referenceImage.name;
+                GameObject ori = GameObject.FindGameObjectWithTag("Origin");
+                if (s == "Isidora Sekulic")
+                {
+                    Instantiate(isidora, ori.transform);
+                }
+                if (s == "Robert Tolinger")
+                {
+                    Instantiate(tolinger, ori.transform);
+                }
+                if (s == "Stojan Novakovic")
+                {
+                    Instantiate(stojan, ori.transform);
+                }
+                if (s == "Milic od Macve")
+                {
+                    Instantiate(milic, ori.transform);
+                }
                 if (s == "Jevrem Obrenovic")
                 {
-                    GameObject ori = GameObject.FindGameObjectWithTag("Origin");
-                    //Debug.Log(ori.name);
-                    //ori.transform.rotation = Quaternion.identity;
-                    Instantiate(go1, ori.transform);
-                    Handheld.Vibrate();
+                    Instantiate(jevrem, ori.transform);
                 }
+                if (s == "Laza K Lazarevic")
+                {
+                    Instantiate(laza, ori.transform);
+                }
+                Handheld.Vibrate();
             }
             //Debug.Log("updejtovano: " + updatedImage.referenceImage.name);
         }

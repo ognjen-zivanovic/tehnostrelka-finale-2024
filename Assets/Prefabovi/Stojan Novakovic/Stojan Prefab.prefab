@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1243685381411936497}
   m_Layer: 0
-  m_Name: Isidora Prefab
+  m_Name: Stojan Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Isidora Sekuli\u0107"
+  m_text: "Stojan Novakovi\u0107"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -303,10 +303,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30.65
+  m_fontSize: 24
   m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -1244,10 +1244,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Obogatila sam srpsku knji\u017Eevnost unose\u0107i misaonost i novu tematiku.
-    Bila sam prva \u017Eena akademik, iako sam \u010Desto bila osporavana. Govorila
-    sam vi\u0161e jezika, duboko poznavala razne kulture, filozofiju, muziku i slikarstvo
-    o kojima sam i pisala."
+  m_text: "Ro\u0111en sam kao Kosta 1842. u \u0160apcu, ali sam se kasnije preimenovao
+    u Stojana. Nakon \u0161to sam zavr\u0161io obrazovanje u Beogradu, postao sam
+    profesor, a kasnije i ministar prosvete. Moje zalaganje za razvoj obrazovanja
+    i doprinos srpskoj kulturi tokom 19. i po\u010Detkom 20. veka smatram klju\u010Dnim
+    za oblikovanje modernog dru\u0161tva u Srbiji."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1274,7 +1275,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.8
+  m_fontSize: 18.75
   m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1418,10 +1419,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I enriched Serbian literature by introducing thoughtfulness and new themes.
-    I was the first female academic, although I was often challenged. I spoke multiple
-    languages and deeply understood various cultures, philosophy, music, and art,
-    which I also wrote about.
+  m_text: "I was born as Kosta in 1842 in \u0160abac, but later changed my name to
+    Stojan. After completing my education in Belgrade, I became a professor, and
+    later, the Minister of Education. I consider my advocacy for education development
+    and contribution to Serbian culture during the 19th and early 20th centuries
+    crucial in shaping modern society in Serbia."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

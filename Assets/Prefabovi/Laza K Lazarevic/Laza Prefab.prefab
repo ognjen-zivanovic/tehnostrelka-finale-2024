@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1243685381411936497}
   m_Layer: 0
-  m_Name: Isidora Prefab
+  m_Name: Laza Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Isidora Sekuli\u0107"
+  m_text: "Laza K. Lazarevi\u0107"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30.65
+  m_fontSize: 25.15
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1244,10 +1244,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Obogatila sam srpsku knji\u017Eevnost unose\u0107i misaonost i novu tematiku.
-    Bila sam prva \u017Eena akademik, iako sam \u010Desto bila osporavana. Govorila
-    sam vi\u0161e jezika, duboko poznavala razne kulture, filozofiju, muziku i slikarstvo
-    o kojima sam i pisala."
+  m_text: "Bio sam pisac realisti\u010Dkih pripovedaka i za\u010Detnik srpskog realizma,
+    posedovao sam izvanredan knji\u017Eevni dar i sposobnost da vidim, osetim, naslutim
+    i do\u017Eivim. Prevo\u0111en sam na dvadeset jezika zahvaljuju\u0107i kvalitetu
+    svog pisanja, a i sam sam prevodio strane pisce na srpski jezik. Uspeh sam postigao
+    i kao lekar, sa razvijenom privatnom praksom. \u017Diveo sam rasko\u0161no, ali
+    sam u dru\u0161tvu uvek ostajao skroman i pa\u017Eljiv. Besplatno sam pregledavao
+    beogradske u\u010Denike i drugu siroma\u0161niju populaciju, pru\u017Eaju\u0107i
+    im pomo\u0107 u vidu lekova i ode\u0107e."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1274,11 +1278,11 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.8
+  m_fontSize: 14.85
   m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 18
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
@@ -1418,10 +1422,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I enriched Serbian literature by introducing thoughtfulness and new themes.
-    I was the first female academic, although I was often challenged. I spoke multiple
-    languages and deeply understood various cultures, philosophy, music, and art,
-    which I also wrote about.
+  m_text: I was a writer of realistic narratives and a pioneer of Serbian realism,
+    I possessed an extraordinary literary gift and the ability to perceive, feel,
+    anticipate, and experience. Due to the quality of my writing my works were translated
+    into twenty languages. I also succeeded as a doctor, with a developed private
+    practice. I lived luxuriously, yet I always remained humble and attentive in
+    society. I provided free medical check-ups for students in Belgrade and other
+    less privileged populations, offering them assistance in the form of medicine
+    and clothing.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1452,7 +1460,7 @@ MonoBehaviour:
   m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 18
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1

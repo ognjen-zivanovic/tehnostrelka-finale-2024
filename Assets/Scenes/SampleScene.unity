@@ -600,7 +600,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrackedImageManager: {fileID: 608830366}
-  go1: {fileID: 733155140476643299, guid: f0f6acb31a166944bbb778df316b453a, type: 3}
+  isidora: {fileID: 733155140476643299, guid: f0f6acb31a166944bbb778df316b453a, type: 3}
+  jevrem: {fileID: 733155140476643299, guid: 2239dff5004b8314992a49dcef99db6a, type: 3}
+  tolinger: {fileID: 733155140476643299, guid: 84f1d1d767ec88f4da066361aaac5f8d, type: 3}
+  milic: {fileID: 733155140476643299, guid: 2c715a330bb6ff048bc3589e06fbacb2, type: 3}
+  laza: {fileID: 733155140476643299, guid: d6d037fb624a76c419ef476d1ce12bb2, type: 3}
+  stojan: {fileID: 733155140476643299, guid: 7b16a05ab5fc77d4aa1628ea76910330, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

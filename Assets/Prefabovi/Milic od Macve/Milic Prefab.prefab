@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1243685381411936497}
   m_Layer: 0
-  m_Name: Isidora Prefab
+  m_Name: Milic Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Isidora Sekuli\u0107"
+  m_text: "Mili\u0107 od Ma\u010Dve"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -303,10 +303,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30.65
+  m_fontSize: 24
   m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -1244,10 +1244,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Obogatila sam srpsku knji\u017Eevnost unose\u0107i misaonost i novu tematiku.
-    Bila sam prva \u017Eena akademik, iako sam \u010Desto bila osporavana. Govorila
-    sam vi\u0161e jezika, duboko poznavala razne kulture, filozofiju, muziku i slikarstvo
-    o kojima sam i pisala."
+  m_text: "Ro\u0111en sam u Beloti\u0107u na podru\u010Dju Ma\u010Dve, bio sam istaknuti
+    srpski slikar 20. veka. Moje detinjstvo proteklo je igraju\u0107i se u seoskom
+    krajoliku, razvijaju\u0107i bogatu ma\u0161tu i interesovanje za umetnost. Nakon 
+    gimnazije, posvetio sam se slikarstvu i stekao svetsku reputaciju kroz svoje
+    izlo\u017Ebe. Moja dela danas se mogu na\u0107i u mnogim renomiranim galerijama
+    i privatnim kolekcijama \u0161irom sveta."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1274,11 +1276,11 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.8
+  m_fontSize: 17.8
   m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 18
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
@@ -1418,10 +1420,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I enriched Serbian literature by introducing thoughtfulness and new themes.
-    I was the first female academic, although I was often challenged. I spoke multiple
-    languages and deeply understood various cultures, philosophy, music, and art,
-    which I also wrote about.
+  m_text: "I was born in Beloti\u0107 in the region of Ma\u010Dva and  I was a prominent
+    Serbian painter of the 20th century. I spent my childhood playing in the rural
+    landscape, developing a rich imagination and interest in art. After high school,
+    I dedicated myself to painting and gained worldwide recognition through my exhibitions.
+    My works can now be found in many renowned galleries and private collections
+    around the world."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

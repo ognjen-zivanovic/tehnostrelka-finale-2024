@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1243685381411936497}
   m_Layer: 0
-  m_Name: Isidora Prefab
+  m_Name: Robert Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Isidora Sekuli\u0107"
+  m_text: Robert Tolinger
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -303,10 +303,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30.65
+  m_fontSize: 24
   m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -1244,10 +1244,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Obogatila sam srpsku knji\u017Eevnost unose\u0107i misaonost i novu tematiku.
-    Bila sam prva \u017Eena akademik, iako sam \u010Desto bila osporavana. Govorila
-    sam vi\u0161e jezika, duboko poznavala razne kulture, filozofiju, muziku i slikarstvo
-    o kojima sam i pisala."
+  m_text: "Bio sam \u010Duveni kompozitor i dirigent \u010De\u0161kog porekla i ostavio
+    sam veliki trag na srpsku horsku muziku. \u017Diveo sam i radio u Kikindi, na
+    Cetinju i u \u0160apcu, i svugde sam ostvario veliki uspeh na polju muzi\u010Dkog
+    i pedago\u0161kog rada, za \u0161ta sam dobio vi\u0161e od 25 javnih priznanja.
+    Posebno va\u017Eno mesto zauzimam u istoriji \u0160aba\u010Dkog peva\u010Dkog
+    dru\u0161tva, gde sam od 1902. do 1911. godine, uz brojne reorganizacije i uvo\u0111enje
+    inovativnog repertoara, u\u010Dinio da Dru\u0161tvo stekne veliku slavu. Svojim
+    zalaganjem i predano\u0161\u0107u radu, zadu\u017Eio sam \u0160abac i budu\u0107e
+    generacije."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1274,11 +1279,11 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21.8
+  m_fontSize: 14.55
   m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 18
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 1
@@ -1418,10 +1423,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I enriched Serbian literature by introducing thoughtfulness and new themes.
-    I was the first female academic, although I was often challenged. I spoke multiple
-    languages and deeply understood various cultures, philosophy, music, and art,
-    which I also wrote about.
+  m_text: "I was a renowned composer and conductor of Czech origin and I left a great
+    mark on Serbian choir music. I lived and worked in Kikinda, Cetinje, and \u0160abac,
+    achieving great success in the field of music and pedagogical work, for which
+    I was awarded more than 25 public recognitions. I hold a particularly important
+    place in the history of the \u0160abac Singing Society, where from 1902 to 1911,
+    through numerous reorganizations and the introduction of innovative repertoire,
+    I contributed to the Society gaining great fame. With my dedication and commitment
+    to work, I have left a lasting impact on \u0160abac and future generations."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
