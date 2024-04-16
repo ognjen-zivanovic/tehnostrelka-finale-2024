@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
+using UnityEngine.XR.ARSubsystems;
 
 public class trackermanager : MonoBehaviour
 {
@@ -21,19 +22,25 @@ public class trackermanager : MonoBehaviour
         foreach (var newImage in eventArgs.added)
         {
             string s = newImage.referenceImage.name;
-            if (s == "Jevrem Obrenovic")
-            {
-                GameObject ori = GameObject.FindGameObjectWithTag("Origin");
-                //Debug.Log(ori.name);
-                //ori.transform.rotation = Quaternion.identity;
-                Instantiate(go1, ori.transform);
-                Handheld.Vibrate();
-            }
-            //Debug.Log(s);
+            Debug.Log(s);
+            first = true;
         }
 
         foreach (var updatedImage in eventArgs.updated)
         {
+            if (first && updatedImage.trackingState == TrackingState.Tracking)
+            {
+                first = false;
+                string s = updatedImage.referenceImage.name;
+                if (s == "Jevrem Obrenovic")
+                {
+                    GameObject ori = GameObject.FindGameObjectWithTag("Origin");
+                    //Debug.Log(ori.name);
+                    //ori.transform.rotation = Quaternion.identity;
+                    Instantiate(go1, ori.transform);
+                    Handheld.Vibrate();
+                }
+            }
             //Debug.Log("updejtovano: " + updatedImage.referenceImage.name);
         }
 
