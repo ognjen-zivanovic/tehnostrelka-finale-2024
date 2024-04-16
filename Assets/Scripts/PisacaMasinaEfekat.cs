@@ -19,11 +19,15 @@ public class PisacaMasinaEfekat : MonoBehaviour
         }
 
     }
+    void Awake() {
+        textComponent = GetComponent<TMP_Text>();
+        textComponent.fontSizeMin = 10.0f;
+    }
 
     void Start()
     {
-        Debug.Log("adslkf");
         textComponent = GetComponent<TMP_Text>();
+        textComponent.enableAutoSizing = false;
         s = textComponent.text;
         textComponent.text = "";
         StartCoroutine(TypingCoroutine());
