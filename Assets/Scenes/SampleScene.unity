@@ -338,7 +338,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 331264286}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b15f82cc229284894964d2d30806969d, type: 3}
   m_Name: 
@@ -601,7 +601,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TrackedImageManager: {fileID: 608830366}
   isidora: {fileID: 733155140476643299, guid: f0f6acb31a166944bbb778df316b453a, type: 3}
-  jevrem: {fileID: 733155140476643299, guid: 2239dff5004b8314992a49dcef99db6a, type: 3}
+  jevrem: {fileID: 733155140476643299, guid: 15220d2e5368c69458b17a3de4fa4d11, type: 3}
   tolinger: {fileID: 733155140476643299, guid: 84f1d1d767ec88f4da066361aaac5f8d, type: 3}
   milic: {fileID: 733155140476643299, guid: 2c715a330bb6ff048bc3589e06fbacb2, type: 3}
   laza: {fileID: 733155140476643299, guid: d6d037fb624a76c419ef476d1ce12bb2, type: 3}
