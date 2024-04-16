@@ -10,23 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
-  m_Name: XR Reference Image Library 1
+  m_Name: 2 XR Reference Image Library
   m_EditorClassIdentifier: 
   m_GuidLow: 5263337753195346107
   m_GuidHigh: 15244146762586836623
   m_DataStore:
     m_Storage: []
   m_Images:
-  - m_SerializedGuid:
-      m_GuidLow: 5704366639230986681
-      m_GuidHigh: 12035763298960981907
-    m_SerializedTextureGuid:
-      m_GuidLow: 50789123249401393
-      m_GuidHigh: 8591474413190645003
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: Isidora Sekulic
-    m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4872829838955759114
       m_GuidHigh: 448748754953756862
@@ -76,4 +66,14 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Robert Tolinger
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5362146232076853950
+      m_GuidHigh: 5950919759845937805
+    m_SerializedTextureGuid:
+      m_GuidLow: 50789123249401393
+      m_GuidHigh: 8591474413190645003
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Isidora Sekulic
     m_Texture: {fileID: 0}

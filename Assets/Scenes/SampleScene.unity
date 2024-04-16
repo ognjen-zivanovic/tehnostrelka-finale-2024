@@ -366,7 +366,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SerializedLibrary: {fileID: 11400000, guid: 3cd555dc98178604b9b15502507caa2c,
+  m_SerializedLibrary: {fileID: 11400000, guid: fac8832ac937ad14884d003ed0721be6,
     type: 2}
   m_MaxNumberOfMovingImages: 0
   m_TrackedImagePrefab: {fileID: 3467248385430049607, guid: 857d71db5b6e0d3478595f70dc9c665f,
@@ -600,7 +600,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrackedImageManager: {fileID: 608830366}
-  go1: {fileID: 733155140476643299, guid: 3f765418be2459c499c61f9a7c8000fd, type: 3}
+  go1: {fileID: 733155140476643299, guid: f0f6acb31a166944bbb778df316b453a, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
