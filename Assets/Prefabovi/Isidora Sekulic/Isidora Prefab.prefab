@@ -273,7 +273,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.19, y: -15.63}
+  m_AnchoredPosition: {x: -0.14, y: -15.63}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &4053973952173172241
@@ -404,12 +404,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 4053973952173172241}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 4053973952173172241}
+  m_maskType: 0
 --- !u!1 &1832676993494643408
 GameObject:
   m_ObjectHideFlags: 0
@@ -710,12 +710,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -9.575749, z: 0, w: -20.507812}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 8445295617474877840}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 8445295617474877840}
+  m_maskType: 0
 --- !u!114 &1623068265224908621
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1211,12 +1211,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -9.575749, z: 0, w: -20.507812}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 6085021164082220059}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 6085021164082220059}
+  m_maskType: 0
 --- !u!114 &4118629955192752789
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1828,12 +1828,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -9.575749, z: 0, w: -20.507812}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 2739167149130910946}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 2739167149130910946}
+  m_maskType: 0
 --- !u!114 &469358470754216497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2015,12 +2015,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -9.575749, z: 0, w: -20.507812}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 756450936187847380}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 756450936187847380}
+  m_maskType: 0
 --- !u!114 &807201235746053269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2415,12 +2415,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -9.575749, z: 0, w: -20.507812}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 1847692237402298609}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 1847692237402298609}
+  m_maskType: 0
 --- !u!114 &6593270320535787663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2904,12 +2904,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: -9.575749, z: 0, w: -20.507812}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_renderer: {fileID: 439389822653135146}
-  m_maskType: 0
   _SortingLayer: 0
   _SortingLayerID: 0
   _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 439389822653135146}
+  m_maskType: 0
 --- !u!114 &6120804020188357063
 MonoBehaviour:
   m_ObjectHideFlags: 0
